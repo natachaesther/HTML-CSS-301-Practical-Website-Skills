@@ -123,6 +123,11 @@ header {
 	clear: both;
 }
 
+#name {
+	color:white
+	font-family: 'Cookie', cursive;
+}
+
 .feature {
 	padding: 40px 0;
 	text-align: center;
