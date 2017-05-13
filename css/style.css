@@ -124,8 +124,8 @@ header {
 }
 
 #name {
-	color:white
-	font-family: 'Cookie', cursive;
+	color:white !important;
+	font-family: 'Cookie', cursive !important;
 }
 
 .feature {
