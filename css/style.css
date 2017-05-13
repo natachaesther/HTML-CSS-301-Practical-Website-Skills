@@ -118,11 +118,9 @@ header {
 
 /* Section: Banner + Feature */
 .banner {
-	background-image: url("../images/banner.svg"); 
-	background-size: 100%;
-    //height: 740px;
-    background-repeat: no-repeat;
-    clear: both;
+	background: url("../images/banner.jpg") no-repeat scroll top center / cover;
+	min-height: 250px;
+	clear: both;
 }
 
 #name {
