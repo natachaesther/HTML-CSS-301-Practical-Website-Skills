@@ -119,7 +119,7 @@ header {
 /* Section: Banner + Feature */
 .banner {
 	background: url("../images/banner.jpg") no-repeat scroll top center / cover;
-	min-height: 250px;
+	min-height: 1000px;
 	clear: both;
 }
 
