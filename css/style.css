@@ -118,7 +118,7 @@ header {
 
 /* Section: Banner + Feature */
 .banner {
-	background-image: url("../images/banner.jpg") 
+	background-image: url("../images/banner.jpg"); 
 	//background-size:;
 	//min-height: 500px;
 	//clear: both;
