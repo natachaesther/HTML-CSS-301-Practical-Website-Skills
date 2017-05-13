@@ -119,9 +119,10 @@ header {
 /* Section: Banner + Feature */
 .banner {
 	background-image: url("../images/banner.jpg"); 
-	//background-size:;
-	//min-height: 500px;
-	//clear: both;
+	background-size: 100%;
+    height: 740px;
+    background-repeat: no-repeat;
+    clear: both;
 }
 
 #name {
